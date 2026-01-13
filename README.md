@@ -1,2 +1,3 @@
-# Java_Activity
-Java Activity for OCT 13 2024
+# Java Activity
+
+Simple Login And Registration of user.
